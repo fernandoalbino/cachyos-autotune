@@ -5,7 +5,9 @@
 ![systemd](https://img.shields.io/badge/systemd-required-000000?logo=systemd&logoColor=white)
 ![Btrfs](https://img.shields.io/badge/Btrfs-supported-FF6F00)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-optional-76B900?logo=nvidia&logoColor=white)
+![ShellCheck](https://img.shields.io/badge/ShellCheck-enabled-brightgreen?logo=gnu-bash&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
+
 
 **Author:** Fernando Albino  
 *Safe, reproducible and automated system tuning for CachyOS (Arch Linux)*
